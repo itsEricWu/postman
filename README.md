@@ -2,11 +2,11 @@
 
 ## Login Demo
 
-![Demo](./postman_demo1.gif)
+![Demo1](./postman_demo1.gif)
 
 ## Main functionalities Demo
 
-
+![Demo2](./postman_demo2.gif)
 
 ## Introduction
 
