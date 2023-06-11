@@ -1,0 +1,28 @@
+/* .task-taker-search-bar input[type='text'] {
+  width: 85%;
+  padding: 12px 20px;
+  margin-top: 8px;
+  margin-bottom: 8px;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.task-taker-search-bar input[type='submit'] {
+  width: 15%;
+  padding: 12px 20px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.task-taker-search-bar input[type='submit']:hover {
+  background-color: #ecebeb;
+} */
+.task-field-title {
+  font-size: 1.5em;
+  font-weight: bold;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}

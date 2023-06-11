@@ -1,0 +1,7 @@
+{
+  "editor.tabCompletion": "on",
+  "diffEditor.codeLens": true,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "files.autoSave": "afterDelay"
+}

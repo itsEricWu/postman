@@ -1,0 +1,26 @@
+.task-taker-panel {
+  display: flex;
+  flex-direction: row;
+  margin: 20px;
+}
+.task-taker-panel-left {
+  width: 50%;
+  height: 100%;
+  margin: 10px;
+}
+
+.task-taker-panel-right {
+  width: 50%;
+  height: 100%;
+  margin: 10px;
+}
+
+.task-field-panel {
+  width: 100%;
+}
+
+.task-taker-search-map-box {
+  width: 100%;
+  height: 60vh;
+  border-radius: 4px;
+}
